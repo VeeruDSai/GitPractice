@@ -1,0 +1,1 @@
+print("Ora Ora Ora Ora")
