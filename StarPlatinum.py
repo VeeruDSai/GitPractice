@@ -1,2 +1,2 @@
 print("Ora Ora Ora Ora")
-print("The World!")
+print("Star Platinum, The World!")
